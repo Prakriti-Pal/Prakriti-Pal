@@ -29,7 +29,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a beginner in the field of coding and collabs wishing to Garner <img src="https://github.com/Prakriti-Pal/Prakriti-Pal/assets/121712024/9fa682c8-d113-47a8-8e9f-9ba03f514bac" width="30">, Hone <img src="" width="30">and Manifest <img src ="" width="30">
+I am a beginner in the field of coding and collabs wishing to Garner <img src="" width="30">, Hone <img src="" width="30">and Manifest <img src="https://github.com/Prakriti-Pal/Prakriti-Pal/assets/121712024/f70d87bd-0fb9-4bc3-adfb-3a6bf68ee26a" width="30">
 my skills through this platform.
  
  🔭 I’m currently pursuing my second year Bachelor of Technology in Electronics and Communication<br>
@@ -41,8 +41,7 @@ my skills through this platform.
   </a><br>
  😄 Pronouns: She/Her/Hers.
 
-https://github.com/Prakriti-Pal/Prakriti-Pal/assets/121712024/b6365ceb-ea65-4bc2-bdcc-98fa783c8670
-https://github.com/Prakriti-Pal/Prakriti-Pal/assets/121712024/199ce64b-2289-4684-8638-57fe231e12dd
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
