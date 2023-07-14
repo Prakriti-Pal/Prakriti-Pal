@@ -1,5 +1,5 @@
 <div id="header" align="center">
-   <img src="https://github.com/Prakriti-Pal/Prakriti-Pal/assets/121712024/efd62020-d987-4486-b235-c801e4eeaaef" width="300"/>
+   <img src="https://github.com/Prakriti-Pal/Prakriti-Pal/assets/121712024/36b37ae3-b1e5-4cb7-a0ba-db2bb3a39f57" width="300"/>
 </div>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/prakriti-pal-008424257/">
