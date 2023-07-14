@@ -23,7 +23,7 @@
 </h1>
 
 <div align="center" >
-   <img src="https://github.com/Prakriti-Pal/Prakriti-Pal/assets/121712024/f833d690-09f1-40e5-bf1f-039116aad52c" height ="900" weight="900">
+   <img src="https://github.com/Prakriti-Pal/Prakriti-Pal/assets/121712024/d5a73168-6783-4541-93fc-33118e996689" height ="900" weight="900">
 </div>
 
 ---
