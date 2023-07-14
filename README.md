@@ -29,7 +29,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a beginner in the field of coding and collabs wishing to Garner <img src="" width="30">, Hone <img src="" width="30">and Manifest <img src="https://github.com/Prakriti-Pal/Prakriti-Pal/assets/121712024/f70d87bd-0fb9-4bc3-adfb-3a6bf68ee26a" width="30">
+I am a beginner in the field of coding and collabs wishing to Garner <img src="https://github.com/Prakriti-Pal/Prakriti-Pal/assets/121712024/09c4c9a4-349e-4b3d-84b4-298ac1872bbe" width="30">, Hone <img src="https://github.com/Prakriti-Pal/Prakriti-Pal/assets/121712024/087f53a7-f2c3-4bca-89ad-e077ed0f03f1" width="30">and Manifest <img src="https://github.com/Prakriti-Pal/Prakriti-Pal/assets/121712024/f70d87bd-0fb9-4bc3-adfb-3a6bf68ee26a" width="30">
 my skills through this platform.
  
  🔭 I’m currently pursuing my second year Bachelor of Technology in Electronics and Communication<br>
