@@ -33,13 +33,13 @@ I am a beginner in the field of coding and collabs wishing to Garner <img src="h
 my skills through this platform.
  
  🔭 I’m currently pursuing my second year Bachelor of Technology in Electronics and Communication<br>
-   at National Institute of Technology,Hamirpur<br>
- 🌱 I’m currently learning Web development and Machine Learning<br>
- 👯 I’m looking to collaborate on projects that resonate with my ideals <br>
+   at National Institute of Technology,Hamirpur.<br>
+ 🌱 I’m currently learning Web development and Machine Learning.<br>
+ 👯 I’m looking to collaborate on projects that resonate with me .<br>
  📫 How to reach me: <a href="https://www.linkedin.com/in/prakriti-pal-008424257/">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a><br>
- 😄 Pronouns: She/Her/Hers
+ 😄 Pronouns: She/Her/Hers.
 
 
 ---
